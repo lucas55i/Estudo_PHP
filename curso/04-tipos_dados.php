@@ -11,6 +11,8 @@ else:
     echo "Não é uma string";
 endif;
 echo "<hr>";
+echo "<hr>";
+
 
 //Int
 $idade = 27;
